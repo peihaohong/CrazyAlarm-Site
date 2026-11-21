@@ -1,0 +1,9 @@
+html { color-scheme: light dark; }
+body { margin: 0 auto; max-width: 70ch; padding: 2rem 1.25rem 4rem; font: 1rem/1.65 system-ui, sans-serif; }
+header { border-bottom: 1px solid GrayText; padding-bottom: 1rem; }
+nav { display: flex; flex-wrap: wrap; gap: .25rem 1rem; margin-top: .5rem; }
+h1, h2 { line-height: 1.25; }
+h1 { margin-top: 2rem; }
+section { margin: 2rem 0; }
+li + li { margin-top: .35rem; }
+a { text-underline-offset: .18em; overflow-wrap: anywhere; }
